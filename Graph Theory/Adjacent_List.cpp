@@ -5,7 +5,7 @@
 // It takes less memory to store graphs.
 
 #include <bits/stdc++.h>
-                                   using namespace std;
+ using namespace std;
 int adj_mat[100][100];
 #define MAX 100000 //maximum node
 vector<int>adj_list[MAX];
