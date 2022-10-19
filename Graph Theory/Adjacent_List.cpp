@@ -1,5 +1,11 @@
+
+// What is adjacency list algorithm ? 
+// Adjacency list is a collection of unordered lists used to represent a
+//  finite graph.Each list describes the set of neighbors of a vertex in a graph.
+// It takes less memory to store graphs.
+
 #include <bits/stdc++.h>
-using namespace std;
+                                   using namespace std;
 int adj_mat[100][100];
 #define MAX 100000 //maximum node
 vector<int>adj_list[MAX];
