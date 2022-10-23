@@ -1,5 +1,8 @@
 /// Gfg problem Link: https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
-
+////step 1 : visited data structure for tracking visited or no visited
+// step 2: checking adjacency list
+// step 3: queue data structure
+// step 4: parent tracting datastucture
 #include <bits/stdc++.h>
 
 bool isCyclicBFS(int src, unordered_map<int, bool> &visited, unordered_map<int, vector<int>> &adj_list)
