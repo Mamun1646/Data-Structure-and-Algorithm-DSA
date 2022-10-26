@@ -11,7 +11,7 @@ public:
             return ;
         image[i][j]=color;
         dfs(i-1,j,image,source_color,color);
-           dfs(i+1,j,image,source_color,color);;
+           dfs(i+1,j,image,source_color,color);
            dfs(i,j-1,image,source_color,color);
    dfs(i,j+1,image,source_color,color);               
         
