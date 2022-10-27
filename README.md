@@ -1,2 +1,3 @@
-# Data Structure and Algorithoms Important Questions Based On Leetcode and GFG
-
+﻿| Problem Name        | Problem Link | Solutin Link | Online Judges |
+|---------------------|--------------|--------------|---------------|
+| Breath first Search |  Problem     | Solution     | Codeforcs     |
